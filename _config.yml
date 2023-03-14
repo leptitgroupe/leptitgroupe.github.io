@@ -1,0 +1,21 @@
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+social:
+  name: Trio Nelias
+  links:
+    - https://www.instagram.com/trio_nelias/
+    - https://soundcloud.com/johncwok
+    - https://www.youtube.com/channel/UCm2-m3rRFmR1hypRo2xnfgw
+
+title: Trio Nelias
+
+tagline: Trio Nelias is a french-german gypsy jazz band.
+
+description: Webpage containing nformation about Trio Nelias, a french-german gypsy jazz band. They are situated in Stuttgart.
+
+url: www.trio-nelias.de
+
+author: Corentin Nelias

@@ -1,0 +1,10 @@
+---
+title: Coming concerts
+layout: default
+---
+<!doctype html>
+{% for item in site.data.gigs %}
+    <p>
+    &#8226; {{ item.date }} {{ item.place }}
+    </p>
+{% endfor %}
