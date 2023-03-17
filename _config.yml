@@ -4,18 +4,17 @@ plugins:
   - jekyll-seo-tag
 
 social:
-  name: Trio Nelias
+  name: P'tit groupe
   links:
-    - https://www.instagram.com/trio_nelias/
-    - https://soundcloud.com/johncwok
-    - https://www.youtube.com/channel/UCm2-m3rRFmR1hypRo2xnfgw
+    - https://www.instagram.com/leptitgroupe.musique/
+    - https://www.youtube.com/@leptitgroupe2370
 
-title: Trio Nelias
+title: Le P'tit Groupe
 
-tagline: Trio Nelias is a french-german gypsy jazz band.
+tagline: Le p'tit groupe est un collectif d'amis musiciens Lyonnais jouant de la pop, du jazz et du swing!
 
-description: Webpage containing nformation about Trio Nelias, a french-german gypsy jazz band. They are situated in Stuttgart.
+description: Site internet du p'tit groupe, un collectif d'amis musiciens bases principalement sur Lyon.
 
-url: www.trio-nelias.de
+url:
 
 author: Corentin Nelias
