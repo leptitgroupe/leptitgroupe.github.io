@@ -1,12 +1,22 @@
-- date : 17 Juin 2023
-  place : Velorution
-  adress : ", Montbrison"
-  url : https://ville-montbrison.fr/agenda/velorution-du-montbrisonnais/
-
 - date : 6 Juillet 2023
   place : Les gens serieux
   adress : ", Crest"
   url : https://www.facebook.com/LesGensSerieux/?locale=fr_FR
+
+- date : 7 Juillet 2023
+  place : Domaine de Rozan
+  adress : ", Sarcenas"
+  url : https://www.facebook.com/domainederozan/
+
+  - date : 9 Juillet 2023
+  place : Au bord du Talaron
+  adress : ", Saint-Christol"
+  url : https://auborddutalaron.eatbu.com/
+
+    - date : 11 Juillet 2023
+  place : Grande Rue
+  adress : ", Saillans"
+  url : https://mairiedesaillans26.fr/
   
 - date : 12 Juillet 2023
   place : Le payanke ardechois
