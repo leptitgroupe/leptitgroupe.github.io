@@ -1,0 +1,2 @@
+# Jekyll outputs the compiled site in _site so we don't want/need to push it to git
+_site/
