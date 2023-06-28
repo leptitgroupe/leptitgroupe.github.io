@@ -3,6 +3,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# theme: jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat"
+
 social:
   name: P'tit groupe
   links:
@@ -18,3 +21,37 @@ description: Site internet du p'tit groupe, un collectif d'amis musiciens bases 
 url:
 
 author: Corentin Nelias
+
+
+# Banner default settings
+# These banner settings are for global banner default, but you can also
+# config it by the front matter for one specific post
+banner:
+  video: null             # Video banner source
+  loop: true              # Video loop
+  volume: 0               # Video volume (100% is 1.0)
+  start_at: 0             # Video start time
+  image: "assets/images/affiche.png"             # Image banner source
+  opacity: 1.0            # Banner opacity (100% is 1.0)
+  background: "rgba(100, 0, 0, 0.8)"  # Banner background (Could be a image)
+  height: "640px"         # Banner default height
+  min_height: null        # Banner minimum height
+  heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
+  subheading_style: null  # Custom subheading style (e.g. color: gold)
+
+# If you don't want transparent header, you can set false
+header_transparent: false
+
+# If you want to change the content width, you can set to another value
+# content_width: "920px"
+
+# Google analytics - GA4
+# google_analytics: [Measurement ID]
+# enableDNT: "false"
+
+# If you want to generate website sitemap, you can set true
+sitemap: true
+
+# You can choose a theme and brand color
+theme_color: "#123456"
+brand_color: "#ff5110"

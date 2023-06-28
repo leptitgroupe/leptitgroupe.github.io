@@ -1,0 +1,8 @@
+{% for item in site.data.recordings %}
+  <div style="font-size:25px">
+         {{ item.title }}
+    <audio controls="controls" style="vertical-align: middle; width:400px">
+      <source src="./assets/audio/{{ item.asset }}" type="audio/mpeg">
+    </audio>
+  </div>
+{% endfor %}

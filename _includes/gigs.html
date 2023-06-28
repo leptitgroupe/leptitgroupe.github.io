@@ -1,0 +1,14 @@
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<div id="dates">
+   <div class="w3-container w3-content w3-padding-32" style="max-width:800px">
+     <ul class="w3-ul w3-border">
+       {% for item in site.data.gigs %}
+           <li>
+           {{ item.date }} <a href="{{ item.url }}"> {{ item.place }}</a>{{ item.adress }}
+           </li>
+       {% endfor %}
+         </ul>
+     </div>
+</div>
