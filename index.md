@@ -22,7 +22,3 @@ Le _P'tit Groupe_ est un collectif d'une dizaine d'amis musiciens. Ils se retrou
 # Nous contacter
 
 {% include contact.html %}
-
-
-<!-- Image of location/map -->
-<img src="./assets/images/amiens.jpg" class="w3-image w3-greyscale-min" style="width:100%">
