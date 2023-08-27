@@ -1,5 +1,5 @@
 ---
-title: Le P'tit Groupe
+title: Accueil
 layout: default
 ---
 
