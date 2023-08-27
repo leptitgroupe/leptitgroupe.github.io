@@ -9,7 +9,7 @@ Le _P'tit Groupe_ est un collectif d'une dizaine d'amis musiciens. Ils se retrou
 
 # Notre musique
 
-{% include video.html src='https://www.youtube.com/embed/tIPd0gRdT-o' %}
+{% include video.html src='https://www.youtube.com/embed/M8BcheqW9B0?si=JkOsrIs0UF19AO-h&amp;controls=0' %}
 
 # Enregistrements
 
