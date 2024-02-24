@@ -1,6 +1,18 @@
 ---
 title: Concerts
-layout: default
+layout: post
 ---
 
-Page en cours de création ;)
+{% for post in site.posts %}
+  <article>
+    <h3>
+      <a href="{{ post.url }}">
+        {{ post.location }} - {{ post.host }}
+      </a>
+    </h3>
+    <h5>
+      <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    </h5>
+    {{ post.content }}
+  </article>
+{% endfor %}
