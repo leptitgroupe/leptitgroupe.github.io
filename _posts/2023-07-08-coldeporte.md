@@ -10,9 +10,6 @@ carousels:
     - image: /assets/images/posts/coldeporte/004.jpg
     - image: /assets/images/posts/coldeporte/005.jpg
     - image: /assets/images/posts/coldeporte/006.jpg
-    - image: /assets/images/posts/coldeporte/007.jpg
-    - image: /assets/images/posts/coldeporte/008.jpg
-    - image: /assets/images/posts/coldeporte/009.jpg
 ---
 
 {% include carousel.html height="60" unit="%"%}
