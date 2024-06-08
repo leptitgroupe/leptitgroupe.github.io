@@ -1,0 +1,27 @@
+# Example
+# 
+#- date : 6 Juillet 2023
+#  place : Les gens serieux
+#  adress : Crest
+#  url : https://www.facebook.com/LesGensSerieux/?locale=fr_FR
+
+- date : Ven 21 Juin 2024
+  place : Fête de la musique
+  adress : Saint-Julien-Chapteuil
+
+- date : Jeu 15 Août 2024
+  place : Mairie
+  adress : La Bernerie en Rez
+
+- date : Ven 16 Août 2024
+  place : Guingette la huchette
+  adress : Château-Thébaud
+  url : https://www.guinguettelahuchette.com/
+
+- date : Dim 18 Août 2024
+  place : Marché
+  adress : Noirmoutiers
+
+- date : Jeu 22 Août 2024
+  place : Five Oh
+  adress : Saint-Nazaire
