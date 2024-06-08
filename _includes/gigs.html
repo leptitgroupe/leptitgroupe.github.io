@@ -11,7 +11,11 @@ Pas de concert en vue, mais ne vous inquiétez pas, nous revenons bientôt !
      <ul class="w3-ul w3-border">
        {% for item in site.data.gigs %}
            <li>
-           {{ item.date }} <a href="{{ item.url }}"> {{ item.place }}</a>{{ item.adress }}
+            {% if item.url %}
+              {{ item.date }} -  <a href="{{ item.url }}"> {{ item.place }}</a>, {{ item.adress }}
+            {% else %}
+              {{ item.date }} - {{ item.place }}, {{ item.adress }}
+            {% endif %}
            </li>
        {% endfor %}
          </ul>
