@@ -1,10 +1,3 @@
-# Example
-# 
-#- date : 6 Juillet 2023
-#  place : Les gens serieux
-#  adress : Crest
-#  url : https://www.facebook.com/LesGensSerieux/?locale=fr_FR
-
 - date : Lun 21 Juin 2025
   place : bar Michelet
   adress : 21h, Puy en Velay
@@ -16,7 +9,8 @@
 
 - date : Mar 15 Juillet 2025
   place : Marché nocture de Batz-sur-Mer
-  adress : 21h, Eglise de St michel Chef-Chef
+  adress : 21h, Batz-sur-mer
+  url : https://en.ot-batzsurmer.fr/night-market-on-15-july-marchenocturne252.html
 
 - date : Ven 18 Juillet 2025
   place : Five Oh
@@ -25,6 +19,10 @@
 - date : Sam 19 Juillet 2025
   place : Wattignies
   adress : Nantes
+
+- date : mardi 22 Juillet 2025
+  place : eglise de saint michel chef chef
+  adress : 19h, Saint Michel chef-chef
 
 
 
