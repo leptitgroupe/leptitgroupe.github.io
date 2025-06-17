@@ -9,7 +9,7 @@ Pas si petit, notre collectif de 8-10 musiciens a une promesse : faire danser pe
 
 # Notre musique
 
-{% include video.html src='https://www.youtube-nocookie.com/embed/M8BcheqW9B0?controls=0' %}
+{% include video.html src='https://www.youtube-nocookie.com/embed/JUhkcmCckRw?controls=0' %}
 
 # Enregistrements
 
