@@ -15,3 +15,4 @@ end
 
 gem "webrick", "~> 1.8"
 gem "jekyll-theme-yat"
+# gem "jekyll-bundle"
